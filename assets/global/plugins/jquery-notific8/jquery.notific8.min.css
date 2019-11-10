@@ -1,0 +1,10 @@
+/** @author Will Steinmetz  Styles for the notific8 plug-in for jQuery  Copyright (c)2013, Will Steinmetz Licensed under the BSD license. http://opensource.org/licenses/BSD-3-Clause */
+/** @author Will Steinmetz  Styles for the notific8 plug-in for jQuery  Copyright (c)2013, Will Steinmetz Licensed under the BSD license. http://opensource.org/licenses/BSD-3-Clause */
+.jquery-notific8-container { display: block; padding: 0; margin: 0; position: fixed; }
+.jquery-notific8-container.top { top: 0; }
+.jquery-notific8-heading { font-weight: bold; margin-bottom: 0.3125em; }
+
+.jquery-notific8-message { font-size: 0.875em; }
+
+.jquery-notific8-close { position: absolute; padding: 0 0.25em; cursor: pointer; top: 0; display: none; }
+

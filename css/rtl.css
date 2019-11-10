@@ -1,0 +1,319 @@
+body{ direction: rtl; font-family: 'Mirza', cursive;  font-size: 16px;}
+body h1, body h2, body h3, body h4, body h5, body h6{ font-family: 'Cairo', sans-serif;}
+p{ line-height: 22px; font-size: 16px;}
+input{ font-size: 16px;}
+
+.logo,
+.online-option,
+.navigation > ul > li,
+.layer-img,
+.release-book-detail .detail,
+.best-sellers-tabs .tabs-nav,
+.sec-heading h3,
+.collection-content li,
+.timeline-detail .detail,
+.follow .social-icons,
+.social-icons li,
+.timeline-detail .s-related-products li,
+.blog-style-1 .post-box .thumb,
+.blog-style-1 .post-box .text-column span,
+.blog-style-1 .post-box .text-column em,
+.tweet-slider .swiper-slide ul li,
+.address-list li i,
+.tags-list li,
+.meta-post,
+.aurthor-detail span,
+.related-products h5,
+.authors-filter ul,
+.single-arthor-widget .filter-tags-holder ul,
+.recommended-book-detail ul,
+.action-text,
+.filter-tags-holder ul li,
+.book-list-header h4,
+.book-list-detail .book-name,
+.book-list-detail .rating-stars,
+.book-list-detail .rating-stars li,
+.book-list-btm .user-likes,
+.book-list-btm .user-likes ul li,
+.product-sort .sort-dropdown label,
+.meta-post li,
+.meta-post li i,
+.add-cart-alert p,
+.single-product-detail .rating-stars,
+.single-product-detail .rating-stars li,
+.quantity-box,
+.single-product-detail .btn-list,
+.reviews-list ul li .comment h6,
+.add-review .rating-stars
+{ float: right;}
+
+
+.search-bar,
+.cart-option,
+.topbar .social-icons,
+.caption.style-2,
+.release-book-detail .detail-img,
+.seller-arrows,
+.sec-heading .view-all,
+.s-related-products,
+.blog-style-1 .post-box .text-column,
+.back-top,
+.cards-list,
+.breadcrumbs,
+.aurthor-detail a,
+.related-pro-arrows,
+.call-action .btn-1,
+.filter-tags-holder ul,
+.book-list-btm .like-nd-share,
+.add-cart-alert .btn-1,
+.respoinve-nav-list li a i
+{ float: left;}
+
+
+
+.btn-1{ font-size: 24px; font-weight: 700; line-height: 50px;}
+.btn-1 i{ font-size: 14px; padding: 0 10px 0 0;}
+
+.cart-option ul li a i{ margin: 0 0 0 10px;}
+.navigation ul li.dropdown-icon > a::after{ margin: 0 10px 0 0;}
+.cart-option{ margin: 0 0 0 30px;}
+.online-option ul li a,
+.cart-option ul li a{ font-size: 15px; font-weight: 600;}
+.navigation > ul > li > a{ font-size: 18px; font-weight: 600;}
+.navigation > ul > li::before{ margin: 30px 0px 0 -10px;}
+.navigation > ul > li:first-child::before{ display: block;}
+.navigation > ul > li:last-child::before{ display: none;}
+.navigation ul li ul li a{ text-align: right; font-size: 16px; font-weight: 500;} 
+.categories-list h6{ font-size: 18px; font-weight: 700;}
+.s-product > span{ font-size: 16px; color: #333;}
+
+.caption.style-1{ width: 560px;} 
+.caption.style-1 h1{ font-size: 60px; font-weight: 900; font-style: normal; margin: 0 0 10px;} 
+.caption.style-1 b{ font-size: 45px; font-weight: 600; font-family: 'Cairo', sans-serif;}
+.caption.style-1 p{ color: #000!important;}
+.caption.style-1{ left: 15px; right: auto;}
+
+.caption.style-2{ width: 607px;}
+.caption.style-2 h1{ font-size: 60px; font-weight: 900; font-style: normal; margin: 0 0 10px;}
+.caption.style-2 p{ font-size: 20px; font-weight: 600;}
+
+.release-heading::before{ right: 100%;} 
+.release-heading{ border-radius: 0 50px 50px 0; padding: 18px 30px 18px 0;} 
+.release-heading h5{ float: right; font-size: 20px; font-weight: 700;}
+.release-heading .release-slider-arrows{ float: left;}
+.release-book-detail::before{ right: 100%;}
+.release-book-detail{ border-radius: 30px 30px 30px 0;}
+.release-slider-arrows li{ line-height: 22px;}
+.release-book-detail i{ left: 0; right: auto;} 
+.release-book-detail h5{ font-size: 20px; font-weight: 700;} 
+
+.tabs-nav-holder::before{ right: 0;}
+.seller-arrows{ left: 0; right: auto;}
+
+.product-img .sale-bacth{ font-size: 20px; line-height: 35px;}
+.main-heading p{ font-size: 16px; font-weight: 600;}
+.sec-heading::before{ right: 0;}
+.sec-heading .view-all i{ line-height: 15px; margin: 0 10px 0 0;}
+
+.s-product h6{ font-size: 16px; margin: 0;}
+.s-product-img{ margin: 0 0 15px;}
+
+.sidebar h4{ font-size: 18px; font-weight: 700;}
+.sidebar ul li a{ font-size: 16px; font-weight: 600;}
+.pagination-holder{ text-align: center;} 
+
+.service-column{ padding: 0 60px 0 0;}
+.service-column .service-icon{ right: 0; left: auto;}
+
+.services-text h3{ font-size: 26px;}
+.services-text strong{ font-size: 16px; color: #333; font-weight: 600;}
+.services-text p{ font-size: 16px; color: #555; line-height: 22px;}
+
+.btn-1.sm{ height: 40px; line-height: 33px;font-size: 16px;}
+.btn-1.sm i{ vertical-align: middle;}
+
+.service-column h5{ font-size: 18px;}
+.service-column p{ font-size: 16px;}
+
+.timeline-slider-arrows{ left: 10px; right: auto;}
+.timeline-detail .s-related-products{ margin: 44px 40px 0 0;}
+
+.timeline-detail h5 span{ font-size: 18px; font-weight: 700;} 
+.timeline-detail h5{ font-size: 12px; font-style: normal; font-weight: bold;} 
+.timeline-detail p{ font-size: 16px; line-height: 22px;}
+.social-icons li{ margin: 0 10px 0 0;}
+
+.timeline-detail .s-related-products li{ margin: 0 10px 0 0;}
+.aurthor-img img{ width: 100%;}
+.gallery-figure .overlay ul li:first-child a i{ margin: 0 0 0 10px; vertical-align: middle;}
+.gallery-figure .overlay ul li a{ line-height: 31px;}
+
+.blog-style-1 .post-box .thumb{ margin: 0 0 0 10px;}
+
+.blog-style-1 .post-box .text-column{ width: 57%;}
+.blog-style-1 .post-box .text-column span i,
+.blog-style-1 .post-box .text-column em i{ margin: 0 0 0 10px; font-size: 13px; color: #999;}
+.blog-style-1 .post-box .text-column strong{ font-size: 14px; color: #555; font-weight: 600;}
+.blog-style-1 .post-box .text-column strong i{ margin: 0 0 0 10px; vertical-align: middle; color: #999; font-size: 13px;}
+.blog-style-1 .post-box .text-column span,
+.blog-style-1 .post-box .text-column em{ font-size: 14px;}
+.blog-style-1 .post-box .text-column span{ padding: 0 0 0 10px; }
+.blog-style-1 .post-box .text-column a{ font-size: 18px; line-height: 24px;}
+
+.tweet-slider .swiper-slide ul li{ margin: 0 20px 0 0; font-size: 16px;}
+.tweet-slider .swiper-slide ul li i{ margin: 0 0 0 10px; vertical-align: middle;}
+.tweet-slider-arrows{ left: 0; right: auto; top: 30px;}
+.twit-icon{ right: 0; left: auto;}
+.address-list li{ margin: 0 0 20px; overflow: hidden;}
+.address-list li i{ margin: 0 0 0 15px;}
+
+.footer-links li a{ padding: 0 15px 0 0; font-size: 18px; margin: 0 0 15px; overflow: hidden;}
+.footer-links li a::before{ content: "\f104"; right: 0; left: auto; top: 3px;}
+.footer-links li a:hover{ padding: 0 25px 0 0;}
+.footer-links li a:hover::before{ right: 10px;}
+
+.newsletter-input i{ right: 0; left: auto;}
+.newsletter-input button{ left: 0; right: auto;}
+
+.sub-foorer p{ font-size: 16px;}
+.sub-foorer p span{ display: inline-block; margin: 0 10px 0 0; vertical-align: middle;}
+
+.back-top{ font-size: 16px; margin: 0 30px 0 0;}
+.back-top i{ margin: 0 10px 0 0; vertical-align: middle;}
+.best-sellers-tabs .tabs-nav li a{ font-size: 18px;}
+
+.s-arthor-wighet{ padding: 0 65px 0 0;}
+.s-arthor-img{ right: 0; left: auto;} 
+.s-arthor-list.style-2 .s-arthor-detail h6{ font-weight: bold; font-size: 14px;}
+
+.aside-widget > h6{ font-size: 18px; font-weight: 900;}
+.books-post-widget{ padding: 0 70px 0 0;}
+.books-post-widget > img{ right: 0; left: auto;}
+.books-post-widget h6{ font-size: 16px; font-weight: bold;}
+.books-post-widget span{ font-size: 16px;}
+.books-post-widget{ min-height: 70px;}
+.tags-list li a{ font-size: 16px; padding: 0 20px;}
+.blog-detail p{ font-size: 16px; width: 100%; overflow: hidden;}
+.blog-detail h3{ font-weight: 900;}
+.meta-post li{ font-size: 16px;}
+.meta-post li i{ margin: 0 10px; vertical-align: middle;}
+
+.left-border{ padding: 0 30px 0 0;}
+.left-border::before{ right: 0; left: auto;}
+
+.breadcrumb-holder{ padding: 10px 0;}
+.breadcrumbs ul li{ font-size: 16px;}
+
+.list-blog .blog-detail h3{ font-size: 18px; font-weight: 900;}
+.list-blog .blog-detail p{ margin: 0 0 20px;}
+
+.grid-blog .blog-detail span i{ float: right; margin: 0 0 0 10px;}
+.aurthor-detail span img{ margin: 0 0 0 10px;}
+
+.Category-list li a{ font-size: 18px;}
+.Category-list li a::before{ content: "\f104"; margin: 0 0 0 10px; vertical-align: middle;}
+.search-bar.style-2 .sub-btn{ left: 0; right: auto; background: #1e293d; color: #fff;}
+
+.product-detail > span{ font-size: 16px;}
+.event-organizar img{ margin: 0 0 0 10px;}
+.event-organizar.style-1 span{ font-size: 16px;}
+.single-blog-detail h2{ font-size: 30px; font-weight: 900; line-height: 48px; margin: 0 0 30px;}
+.social-text{ padding: 0 90px 0 0;}
+.social-text .social-icons{ right: 0; left: auto;}
+.blog-arthor-detail{ padding: 0 110px 0 0;}
+.comment{ padding: 0 100px 0 0;}
+.sub-comment{ margin: 0 100px 30px 0!important;}
+.sub-comment .comment{ padding: 0 70px 0 0;}
+
+.comment h6{ font-size: 16px; font-weight: bold;}
+.comment h6 span{ margin: 0 5px 0 0; font-size: 14px; font-weight: normal; color: #999;}
+.comment .replay-btn i{ margin: 0 0 0 5px; vertical-align: middle;}
+.comment p{ font-size: 16px;}
+.sending-form .form-group .form-control{ padding-right: 40px; padding-left: 15px;}
+.sending-form .form-group i{ right: 10px; left: auto;}
+
+.social-text p{ font-size: 16px;}
+.social-text h6{ font-weight: 900; font-style: normal; margin: 0 0 10px;}
+.single-blog-detail blockquote{ font-style: normal; font-weight: 900;}
+
+.s-arthor-detail h6{ margin: 0 0 5px; font-size: 14px; font-weight: bold;}
+.s-arthor-detail h6 a{ color: #333;}
+
+.authors-filter ul li{ float: right;}
+.authors-filter ul li a{ font-size: 13px; padding: 15px 8.5px; font-weight: bold;}
+
+.author-list-widget{ padding: 0 210px 0 0;}
+.arthor-list-img{ right: 0; left: auto;}
+.author-list-detail h6{ font-size: 18px; font-weight: 900;}
+.author-list-detail p{ font-size: 16px;}
+
+.arthor-detail-column .arthor-img .edit-tag{ line-height: 20px;}
+.arthor-detail h6{ font-weight: bold; font-size: 16px;}
+.single-arthor-widget .filter-tags-holder ul li{ float: right;}
+
+.recommended-book-detail h6{ font-size: 16px; font-weight: bold;}
+.recommended-book-detail span{ font-size: 14px; font-weight: bold; margin: 10px 0 7px;}
+.filter-tags-holder ul li a{ font-size: 14px; font-weight: bold;}
+.single-arthor-widget h5 i{ margin: 0 0 0 10px; vertical-align: middle;}
+.author-p-detail ul li h6{ font-size: 14px; font-weight: bold;}
+.author-p-detail ul li h6 i{ margin: 0 0 0 10px;}
+
+.error-heading{ padding: 0 272px 0 0;} 
+.error-heading span{ right: 0; left: auto; font-family: 'Lato', sans-serif;}
+.error-heading h2{ line-height: 80px; font-weight: 900; font-size: 70px;}
+.error-heading > span{ font-size: 140px; line-height: 156px;}
+.error-area form .btn-1{ left: 0; right: auto; font-size: 18px; line-height: 0;}
+.error-area form input{ font-size: 20px;}
+
+.inner-page-heading.style-2 p{ font-size: 16px;}
+.main-heading h2{ font-weight: 900;}
+.mission-disc p{ font-size: 16px; line-height: 24px;}
+.mission-disc strong{ font-size: 18px; line-height: 26px;}
+.facts-list ul li span{ font-size: 24px; font-weight: bold; font-family: 'Mirza', cursive;}
+
+.action-text h3{ font-weight: 900; margin: 0 0 10px;}
+.action-text strong{ font-size: 16px;}
+
+.book-list-widget .detail{ padding: 0 145px 0 0;}
+.book-list-detail p{ width: 100%; overflow: hidden;}
+.book-list-btm .like-nd-share li i{ margin: 0 0 0 10px!important; vertical-align: middle;}
+
+.address-column strong,
+.address-column h6{ font-size: 16px; font-weight: 900;}
+.address-column p{ font-size: 16px;}
+.product-sort .sort-dropdown label{ margin: 0 0 0 20px; font-size: 18px;}
+
+.meta-post li i{ margin: 0 0 0 10px; line-height: 21px;}
+.meta-post li:first-child::before{ display: block;} 
+.meta-post li:last-child::before{ display: none;} 
+
+.event-detail p{ font-size: 16px;}
+.event-detail h4{ font-weight: 900;}
+.event-map{ width: 100%;}
+
+.single-event-detail > h2{ font-weight: 900;}
+.social-icons li a{ line-height: 30px;}
+.online-option ul li::before{ float: none;}
+.cart-option ul li a i{ vertical-align: middle;}
+.add-cart-alert{ margin: 40px 0;}
+
+.add-cart-alert{ padding: 20px 30px;}
+.add-cart-alert p{ font-size: 16px; font-weight: 900;}
+.add-cart-alert p i{ margin: 0 0 0 10px; vertical-align: middle;}
+
+.availability strong i{ vertical-align: middle; margin: 0 10px 0 0;}
+.quantity-box label{ margin: 0 0 0 20px;}
+
+.reviews-list ul li .comment{ padding: 0 70px 0 0;}
+.description .check-list li::before{ margin: 0 0 0 10px; vertical-align: middle;}
+
+.social-options ul li a i{ right: 0; left: auto;}
+.social-options ul li a{ text-align: right; padding: 0 80px 0 0; line-height: 45px;}
+
+.r-nav-logo{ text-align: center; margin: 0 0 20px;} 
+.respoinve-nav-list li ul li a{ margin: 0 30px 0 0;}
+
+.release-book-detail .detail{ margin: 13px 0 0;}
+.gallery-list .overlay ul li:first-child a i{ margin: 0 0 0 10px; vertical-align: middle;}
+
+
